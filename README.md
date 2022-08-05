@@ -1,2 +1,9 @@
-# concellos-de-Galiza
-XML dos concellos de Galiza co codigo de provincia + codigo de concello
+# Concellos de Galiza
+Ficheiros xml dos concellos de Galiza por provincias identificados co código de provincia máis código de concello
+- acorunha.xml
+- lugo.xml
+- ourense.xml
+- pontevedra.xml
+
+Ficheiro xml de todos sos concellos de Galiza identificados co código de provincia máis código de concello
+- galiza.xml
